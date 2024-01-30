@@ -1,9 +1,9 @@
 # Ribosome_profiling
 
-Project for the course RNA Sequencing following the ribosome prfiling tutorial by Puneet Sharma.
+Project for the course RNA Sequencing following the ribosome profiling tutorial by Puneet Sharma.
 
 The code that was executed can be found in the scripts folder. An altered version of the R package RiboseQC (https://github.com/ohlerlab/RiboseQC) is included that was used.
-The datasets used were provided by Punet Sharma and are not public. Instructions on how to generate reference fasta files according to the tutorial are copied below.
+The datasets used were provided by Puneet Sharma and are not public. Instructions on how to generate reference fasta files according to the tutorial are copied below.
 
 ## “Undesired RNA” annotation
 Organism of interest: Homo sapiens (Human)
